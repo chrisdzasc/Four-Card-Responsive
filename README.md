@@ -29,9 +29,9 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://four-card-chrisdzasc.netlify.app/)
+- Live Site URL: [Four Card Feature Section](https://four-card-chrisdzasc.netlify.app/)
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/4-card---mobile-first-responsive-solution-BnLEPMpIX3)
+- Solution URL: [4 Card - Mobile First Responsive Solution](https://www.frontendmentor.io/solutions/4-card---mobile-first-responsive-solution-BnLEPMpIX3)
 
 
 ## My process
